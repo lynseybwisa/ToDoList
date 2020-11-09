@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576500089078",
+    "firebase_url": "https://bwisa-world-peace.firebaseio.com",
+    "project_id": "bwisa-world-peace",
+    "storage_bucket": "bwisa-world-peace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576500089078:android:4db66adeee190da0a9acd7",
+        "android_client_info": {
+          "package_name": "com.bwisa.worldpeaceissuesmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576500089078-6i80v83cktb3i0e02sr8ka8ugp48r5n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2tiswn1U4CObSXAP45RIqYMSDo5bY6uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576500089078-6i80v83cktb3i0e02sr8ka8ugp48r5n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
